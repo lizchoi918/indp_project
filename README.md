@@ -14,6 +14,7 @@ Data on the average number of school years for both countries was also sourced f
 ### Food Consumption Patterns in Bukidnon
 The analysis of food consumption patterns in Bukidnon revealed potential deficiencies in certain essential nutrients.
 Common dietary practices, regional preferences, and socio-economic factors were taken into account.
+Explores the nutritional adequacy of families in Bukidnon, Philippines by analyzing the demand fod food in this region.
 ### Comparative Analysis between Philippines and USA
 The comparative analysis showed significant disparities in GDP and education levels between the Philippines and the USA.
 These differences provide context for understanding the economic and educational challenges faced by Bukidnon residents.
