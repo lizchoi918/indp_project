@@ -1,1 +1,1 @@
-# indp_project
+# independent_project
